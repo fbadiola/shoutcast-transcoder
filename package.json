@@ -1,0 +1,30 @@
+{
+  "name": "shoutcast-transcoder",
+  "version": "1.0.0",
+  "description": "Shoutcast transcoder API Wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbadiola/shoutcast-transcoder.git"
+  },
+  "keywords": [
+    "shoutcast",
+    "transcoder",
+    "sc_trans",
+    "sctrans"
+  ],
+  "author": "Federico Badiola <fbadiola@outlook.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fbadiola/shoutcast-transcoder/issues"
+  },
+  "homepage": "https://github.com/fbadiola/shoutcast-transcoder#readme",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "querystring": "^0.2.0",
+    "xml2js": "^0.4.17"
+  }
+}
